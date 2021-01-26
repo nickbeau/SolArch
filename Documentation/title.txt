@@ -1,0 +1,6 @@
+---
+title: Solution Architects Forum
+author: Nick Beaugeard
+rights: Create Commons Non-Commercial Share Alike 3.0
+language: en-US
+---
